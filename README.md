@@ -1,7 +1,7 @@
 ## Hii!! E sou a Marina. 
 
 - 🎠 Estudante de graduação em Tecnologia de Sistemas para internet.
-- 🛣️ Estudando Javascript e SqlServer.
+- 🛣️ Estudando Javascript.
 
 <div align="center">
   <a href="https://github.com/marinareginato">
